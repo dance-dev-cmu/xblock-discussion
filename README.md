@@ -1,3 +1,11 @@
+DISCLAIMER
+=================
+This is a fork of the Discussion XBlock available at 
+https://github.com/edx-solutions/xblock-discussion .
+Further development of this will be done by the DANCE
+group (http://www.cs.cmu.edu/~dance/) at CMU.
+
+
 Discussion XBlock
 =================
 
